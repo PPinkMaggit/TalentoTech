@@ -1,2 +1,2 @@
 # TalentoTech
-Este es un proyecto practico del Curso de Front-End de Talento Tech
+Este es un proyecto practico sin fines de lucro del Curso de Front-End de Talento Tech
