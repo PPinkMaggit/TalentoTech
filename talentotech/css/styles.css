@@ -1,0 +1,60 @@
+html {
+    font-size: 1rem;
+}
+
+h1 {
+    color: #145431;
+    
+}
+section {
+    color: #F5EFDF;
+}
+
+ul {
+    list-style: none;
+}
+
+
+li a {
+    text-decoration: none;
+}
+
+p {
+    color: #145431;
+}
+.menu {
+    color: #C2D68E;
+}
+header {
+    background-color: rgb(254, 255, 222);
+}
+
+.recuadro {
+    width: 100%;
+    background-color: #145431;
+    height: 200px;
+    align-items: stretch;
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+
+}
+.item {
+    width: 15%;
+    height: 40px;
+    align-items: stretch;
+    display: flex;
+    justify-content: center;
+    border: 3px solid black;
+}
+
+* {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.logo {
+    padding: 50px;
+    border: solid black;
+}
+.header {
+    position: sticky;
+}
